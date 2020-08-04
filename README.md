@@ -1,4 +1,4 @@
-# Classic Arcade Game
+# Arcade Game
 
 In this game we have a player and some bugs. The player must avoid collusion with the bugs in order to reach the safe zone in the top.  Once the player reaches the top he gets 1 point. Upon reaching 5 points the player wins. A Demo version of the game can be seen here [Arcade Game](https://special3220.github.io/arcade-game/)
 
